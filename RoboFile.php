@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package parx-vip
+ * @package apache-vip
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package parx-vip
+ * @package apache-vip
  */
 class RoboFile extends \Robo\Tasks
 {
